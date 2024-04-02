@@ -8,6 +8,14 @@
 - 👀 I’m interested in Blockchain, Web3, Statistics & Finance
 - 📫 How to reach me - theamdrk@gmail.com
 - 😄 Pronouns: He/Him
+- 
+<div style="display:flex; align-items:center;">
+    <a href="https://twitter.com/srinaaaath">
+        <img src="https://img.shields.io/twitter/follow/srinaaaath?style=social&logo=x&logoColor=black&labelColor=white&color=black" alt="X (formerly Twitter) Follow">
+    </a>
+    <a href="https://www.linkedin.com/in/srinathmurali31/">
+        <img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn Profile">
+    </a>
+</div>
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/srinaaaath?style=social&logo=x&logoColor=black&labelColor=white&color=black)
 

@@ -9,5 +9,5 @@
 - 📫 How to reach me - theamdrk@gmail.com
 - 😄 Pronouns: He/Him
 
-[![X](https://img.shields.io/twitter/follow/srinaaath?style=social&logo=twitter)](https://twitter.com/srinaaath)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/srinaaaath?style=social&logo=twitter)](https://twitter.com/srinaaaath)
 

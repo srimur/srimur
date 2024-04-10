@@ -2,7 +2,7 @@
 
 <p float="left">
   <img src="https://github.com/srimur/srimur/assets/142419722/95854960-5f7b-4b6e-95bd-6cf47dc0b9fa/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="First GIF" height=200>
-  <img src="https://github.com/srimur/srimur/assets/142419722/68cbfbf8-1b03-4c72-9fcb-e5c642a7e83a/coffee.gif" alt="Second GIF" height=200>
+   <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/l49JMVDvP8D38LHwI" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/money-cryptocurrency-bitcoin-l49JMVDvP8D38LHwI">via GIPHY</a></p>
 </p>
 
 - 👀 I’m interested in Blockchain, Web3, Statistics & Finance

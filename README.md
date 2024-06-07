@@ -5,8 +5,9 @@
   <img src="https://github.com/srimur/srimur/assets/142419722/a54867af-3eca-4e25-9f17-938a28f55747/giphy.gif" alt="First GIF" height=200>
 </p>
 
-- 👀 I’m interested in Blockchain, Web3, Statistics & Finance
-- 📫 How to reach me - theamdrk@gmail.com
+- 🏫 CS & Economics @ BITS Pilani Hyderabad Campus
+- 👀 I’m interested in Blockchain, Web3 & Statistics
+- 📫 Reach out to me - theamdrk@gmail.com
 - 😄 Pronouns: He/Him
 <div style="display:flex; align-items:center;">
     <a href="https://twitter.com/srinaaaath">

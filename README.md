@@ -6,7 +6,7 @@
 </p>
 
 - 🏫 CS & Economics @ BITS Pilani Hyderabad Campus
-- 👀 I’m interested in Blockchain, Web3 & Statistics
+- 👀 I’m interested in Web3, AI & Statistics
 - 📫 Reach out to me - theamdrk@gmail.com
 - 😄 Pronouns: He/Him
 <div style="display:flex; align-items:center;">

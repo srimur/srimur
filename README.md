@@ -4,7 +4,7 @@
   <img src="https://github.com/srimur/srimur/assets/142419722/95854960-5f7b-4b6e-95bd-6cf47dc0b9fa/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="First GIF" height=200>
 <!--   <img src="https://github.com/srimur/srimur/assets/142419722/a54867af-3eca-4e25-9f17-938a28f55747/giphy.gif" alt="First GIF" height=200>
    -->
-  <iframe src="https://giphy.com/embed/SEWEmCymjv8XDbsb8I" width="480" height="398" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/theoffice-the-office-tv-episode-802-SEWEmCymjv8XDbsb8I">via GIPHY</a></p>
+  <div style="width:100%;height:0;padding-bottom:83%;position:relative;"><iframe src="https://giphy.com/embed/SEWEmCymjv8XDbsb8I" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/theoffice-the-office-tv-episode-802-SEWEmCymjv8XDbsb8I">via GIPHY</a></p>
 </p>
 
 - 🏫 CS & Economics @ BITS Pilani Hyderabad Campus

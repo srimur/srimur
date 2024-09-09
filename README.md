@@ -5,6 +5,8 @@
   <img src="https://github.com/srimur/srimur/assets/142419722/a54867af-3eca-4e25-9f17-938a28f55747/giphy.gif" alt="First GIF" height=200>
   
 </p>
+
+# Hey
 I'm a **CS & Economics** student at **BITS Pilani Hyderabad Campus**. I’m into **Web3, AI**, and just about anything that involves **programming** and **tech-driven finance & statistics**.
 
 feel free to reach out: **[theamdrk@gmail.com](mailto:theamdrk@gmail.com)**
@@ -17,5 +19,6 @@ feel free to reach out: **[theamdrk@gmail.com](mailto:theamdrk@gmail.com)**
         <img src="https://img.shields.io/badge/LinkedIn-Profile-blue">
     </a>
 </div>
+
 
 

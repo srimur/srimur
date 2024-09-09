@@ -6,7 +6,7 @@
   
 </p>
 
-# Hey
+# hey there
 I'm a **CS & Economics** student at **BITS Pilani Hyderabad Campus**. I’m into **Web3, AI**, and just about anything that involves **programming** and **tech-driven finance & statistics**.
 
 feel free to reach out: **[theamdrk@gmail.com](mailto:theamdrk@gmail.com)**

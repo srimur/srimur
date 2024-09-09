@@ -6,10 +6,10 @@
   
 </p>
 
-- 🏫 CS & Economics @ BITS Pilani Hyderabad Campus
-- 👀 I’m interested in Web3, AI & Statistics
-- 📫 Reach out to me - theamdrk@gmail.com
-- 😄 Pronouns: He/Him
+-  CS & Economics @ BITS Pilani Hyderabad Campus
+-  I’m interested in Web3, AI, Statistics & Finance
+-  Reach out to me - theamdrk@gmail.com
+  
 <div style="display:flex; align-items:center;">
     <a href="https://twitter.com/srinaaaath">
         <img src="https://img.shields.io/twitter/follow/srinaaaath?style=social&logo=x&logoColor=black&labelColor=white&color=black" alt="X (formerly Twitter) Follow">
